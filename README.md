@@ -2,7 +2,7 @@
 
 ###
 
-<h2>Hello World!</h2><br>
+<h2>Hello World!</h2>
 <p>Eu me chamo Caio, estudo e pratico Desenvolvimento Front End</p>
 
 ###
