@@ -39,10 +39,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"/>
   <img width="12"/>
 </div>
-
-###
-
-<div>
-  <a href="https://github.com/yKaayo">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yKaayo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
